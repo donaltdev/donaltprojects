@@ -1,0 +1,5 @@
+name: Stats
+version: 2.0.3
+main: Stats\GoogStats
+api: 3.0.0
+author: ClembDeveloper
