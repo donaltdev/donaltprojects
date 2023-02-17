@@ -1,0 +1,5 @@
+name: StatsAPI
+version: 1.0.0
+author: RedeMultiverse
+api: [3.0.0, 4.0.0]
+main: stats\Loader
