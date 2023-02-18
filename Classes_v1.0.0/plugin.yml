@@ -1,6 +1,0 @@
-name: Classes
-version: 1.0.0
-api: [3.0.0, 4.0.0, 5.0.0]
-main: Classes\LutekDev\Classes
-author: LutekDev
-website: github.com/lutekdev
