@@ -1,0 +1,12 @@
+---
+name: AirDrops
+version: 1.0-BETA
+main: airdrops\AirDrops
+api: 4.0.0
+author: iJonyMx
+permissions:
+  airdrops.command.give:
+    default: op
+  airdrops.admin:
+    default: op
+...
